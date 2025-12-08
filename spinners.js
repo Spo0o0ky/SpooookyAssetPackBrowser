@@ -82,30 +82,35 @@ function getEntity(path, suffix, drawOutline) {
     // note: _id
     return `{
         {
+            _editorLayer = 0,
             _fromLayer = "entities",
+            _id = 65,
             _name = "FrostHelper/IceSpinner",
-            _type = "entity",
             attachGroup = -1,
             attachToSolid = false,
             bloomAlpha = 0,
             bloomRadius = 0,
             borderColor = "000000",
             collidable = true,
-            dashThrough = false,
+            dashThrough = "Kill",
             debrisCount = 8,
+            depth = -8500,
             destroyColor = "b0eaff",
-            directory = "${path}",
+            directory = "${path}>${suffix}",
             drawOutline = ${drawOutline},
-            moveWithWind = false,
+            hitbox = "C,6,0,0;R,16,4,-8,-3",
+            imageScale = 1,
+            onHoldable = "PassThrough",
             rainbow = false,
+            scale = 1,
             singleFGImage = false,
-            spritePathSuffix = "${suffix}",
             tint = "ffffff",
-            x = 320,
-            y = 120
+            x = 312,
+            y = 56
         }
     }`
 }
+
 
 function buttonClick(button) {
     info = spinners[button.id.substring(7)]; // 7 is length of text "button_"
