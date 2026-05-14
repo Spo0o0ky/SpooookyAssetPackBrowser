@@ -405,27 +405,27 @@ function get_animTiles_Straw() {
 }
 
 function get_animTiles_Starjump() {
-    return `	<sprite name="Starjump_railingA" path="animatedTiles/Spooooky/AssetPack/Starjump/railingA" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_railingB" path="animatedTiles/Spooooky/AssetPack/Starjump/railingB" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_railingC" path="animatedTiles/Spooooky/AssetPack/Starjump/railingC" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_railingD" path="animatedTiles/Spooooky/AssetPack/Starjump/railingD" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_railingE" path="animatedTiles/Spooooky/AssetPack/Starjump/railingE" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_railingF" path="animatedTiles/Spooooky/AssetPack/Starjump/railingF" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_railingG" path="animatedTiles/Spooooky/AssetPack/Starjump/railingG" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingA" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingA" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingB" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingB" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingC" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingC" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingD" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingD" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingE" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingE" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingF" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingF" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_leftrailingG" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingG" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingA" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingA" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingB" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingB" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingC" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingC" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingD" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingD" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingE" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingE" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingF" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingF" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
-	<sprite name="Starjump_rightrailingG" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingG" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>`
+    return `<sprite name="Starjump_railingA" path="animatedTiles/Spooooky/AssetPack/Starjump/railingA" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_railingB" path="animatedTiles/Spooooky/AssetPack/Starjump/railingB" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_railingC" path="animatedTiles/Spooooky/AssetPack/Starjump/railingC" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_railingD" path="animatedTiles/Spooooky/AssetPack/Starjump/railingD" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_railingE" path="animatedTiles/Spooooky/AssetPack/Starjump/railingE" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_railingF" path="animatedTiles/Spooooky/AssetPack/Starjump/railingF" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_railingG" path="animatedTiles/Spooooky/AssetPack/Starjump/railingG" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingA" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingA" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingB" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingB" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingC" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingC" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingD" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingD" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingE" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingE" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingF" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingF" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_leftrailingG" path="animatedTiles/Spooooky/AssetPack/Starjump/leftrailingG" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingA" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingA" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingB" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingB" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingC" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingC" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingD" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingD" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingE" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingE" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingF" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingF" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>
+<sprite name="Starjump_rightrailingG" path="animatedTiles/Spooooky/AssetPack/Starjump/rightrailingG" delay="0.2" posX="0" posY="-8" origX="4" origY="4"/>`
 }
 
 //When Copy XML Info is pressed
@@ -466,7 +466,7 @@ function animTiles_buttonClick(animTiles_button) {
     {
         navigator.clipboard.writeText(get_animTiles_Straw());
     }
-        else if(info[0] == "Starjump" || "Starjump Solid")
+    else if(info[0] == "Starjump" || info[0] == "Starjump Solid")
     {
         navigator.clipboard.writeText(get_animTiles_Starjump());
     }
