@@ -86,19 +86,24 @@ div{
     align-content: center;
 }
 
-div-spinner{ 
+div-name {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    max-width: 13em;
+    max-height: 2em;
+    text-align: center;
+}
+
+div-lamp{ 
     margin: 2em;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-div2{
-    margin: 1em;
-}
-
 img{
-    width: 30em;
+    width: 12em;
     height: 20em;
 }
 
@@ -115,7 +120,6 @@ button{
     border-radius: 0.5em;
     font-size: 1.4em;
     font-weight: bold;
-    margin-bottom: 0.5em;
     min-width: 5em;
 }
 

@@ -86,20 +86,26 @@ div{
     align-content: center;
 }
 
-div-spinner{ 
+div-name {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    max-width: 13em;
+    max-height: 2em;
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+div-jumpthru{ 
     margin: 2em;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-div2{
-    margin: 1em;
-}
-
 img{
-    width: 30em;
-    height: 20em;
+    width: 18em;
+    height: 12em;
 }
 
 buttongroup{
@@ -115,7 +121,6 @@ button{
     border-radius: 0.5em;
     font-size: 1.4em;
     font-weight: bold;
-    margin-bottom: 0.5em;
     min-width: 5em;
 }
 

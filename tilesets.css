@@ -86,7 +86,17 @@ div{
     align-content: center;
 }
 
-div-spinner{ 
+div-name {
+    display: block;
+    font-size: 1.5em;
+    margin-block-end: 0.83em;
+    font-weight: bold;
+    max-width: 13em;
+    max-height: 1em;
+    text-align: center;
+}
+
+div-tileset{ 
     margin: 2em;
     display: flex;
     flex-direction: column;
@@ -98,8 +108,8 @@ div2{
 }
 
 img{
-    width: 30em;
-    height: 20em;
+    width: 24em;
+    height: 24em;
 }
 
 buttongroup{
@@ -116,7 +126,7 @@ button{
     font-size: 1.4em;
     font-weight: bold;
     margin-bottom: 0.5em;
-    min-width: 5em;
+    min-width: 13em;
 }
 
 button:hover{

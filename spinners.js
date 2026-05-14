@@ -133,7 +133,7 @@ function sleep(ms) {
 for (let i = 0; i < spinners.length; i++) {
     info = spinners[i];
     //div for that spinner
-    let e = document.createElement("DIV");
+    let e = document.createElement("DIV-SPINNER");
 
     //linebreak
     let br = document.createElement("BR");
@@ -156,5 +156,5 @@ for (let i = 0; i < spinners.length; i++) {
     e.append(image);
     e.append(br);
     e.append(button);
-    document.body.append(e);
+    document.getElementById('main-content').appendChild(e);
 }
