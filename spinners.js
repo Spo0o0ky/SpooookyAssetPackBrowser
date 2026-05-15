@@ -33,6 +33,7 @@ let spinners = [
     ["Vanilla-ish (Blue)", "danger/spinners/Spooooky/AssetPack/vanillaish", "_blue", true],
     ["Vanilla-ish (Purple)", "danger/spinners/Spooooky/AssetPack/vanillaish", "_purple", true],
     ["Vanilla-ish (Pink)", "danger/spinners/Spooooky/AssetPack/vanillaish", "_pink", true],
+    ["Cactus (Green)", "danger/spinners/Spooooky/AssetPack/cactus", "_green", true],
     ["Gems (Pure White)", "danger/spinners/Spooooky/AssetPack/gems", "_whitepure", true],
     ["Gems (Cool White)", "danger/spinners/Spooooky/AssetPack/gems", "_whitecool", true],
     ["Gems (Black)", "danger/spinners/Spooooky/AssetPack/gems", "_black", true],

@@ -30,6 +30,7 @@ let spikes = [
     ["Barbs (Clean)","Spooooky/AssetPack/barbs/barbs_clean"],
     ["Barbs (Rusty)","Spooooky/AssetPack/barbs/barbs_rusty"],
     ["Barbs (Dream)","Spooooky/AssetPack/barbs/barbs_dream"],
+    ["Cactus (Green)","Spooooky/AssetPack/cactus/cactus_green"],
     ["Forest (Blue)","Spooooky/AssetPack/forest/forest_blue"],
     ["Forest (Green)","Spooooky/AssetPack/forest/forest_green"],
     ["Forest (Light Green)","Spooooky/AssetPack/forest/forest_lightgreen"],
